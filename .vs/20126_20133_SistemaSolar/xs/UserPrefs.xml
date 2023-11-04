@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{315307FB-764C-1CF5-4C60-D1C55B58F77A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ChangeLookAtTarget.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ChangeLookAtTarget.cs" Line="6" Column="22" />
+      <File FileName="Assets/Scripts/RotateAround.cs" Line="7" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="20126_20133_SistemaSolar" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ChangeLookAtTarget.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="17f85c28-932b-49f0-880e-68abb7baebac" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
